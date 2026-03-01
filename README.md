@@ -158,26 +158,7 @@ SEMopy (Structural Equation Modeling)
 
 ---
 
-# Project Structure
 
-```
-OTT-Consumer-Behavior-SEM
-│
-├── data
-│   └── OTT_Responses.xlsx
-│
-├── notebooks
-│   └── OTT_SEM_Analysis.ipynb
-│
-├── results
-│   ├── correlation_matrix.png
-│   ├── sem_path_diagram.png
-│   └── model_results.csv
-│
-└── README.md
-```
-
----
 
 # Applications
 
